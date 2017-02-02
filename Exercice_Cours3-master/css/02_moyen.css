@@ -1,0 +1,1 @@
+header img{width:352px}header nav ul,header nav ul li{display:flex;flex-direction:row;justify-content:space-around;border:none}header nav ul li:first-child{border-top:none}main section{flex-direction:row;flex-wrap:nowrap;justify-content:flex-start}footer{justify-content:space-around}
